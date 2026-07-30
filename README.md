@@ -33,7 +33,7 @@ I'm on GitHub to:
 
 ### Let's Connect!
 - 💼 <a href="https://www.linkedin.com/in/riza-nur-maulana-2b611420a/">LinkedIn</a>
-- 🌐 <a href="https://rizanurmaulana.github.io/portfolio/">Web Portfolio</a>
+- 🌐 <a href="https://portfolio-rizanurmaulana.vercel.app/">Web Portfolio</a>
 
 ### Fun Facts
 - 🎨 I enjoy designing creative UI/UX interfaces.
